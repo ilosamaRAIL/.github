@@ -20,4 +20,4 @@ Did you find an issue, saw some room for improvement or want to reach out to us 
 **Now, enjoy our content and see you soon!**
 ~ Hannah & Nagi
 
-last updated 10/12/2024
+###### last updated 10/12/2024

@@ -1,5 +1,5 @@
 # ilo sama RAIL - Portfolio
-Hiya, here's our (mostly Nagi's) portfolio of things we have infofficially done for Train Sim World. Some things are now cancelled, some are still work in progress, but we're proud to how them off nonetheless! If you got any questions, feel free to reach out!  
+Hiya, here's our (mostly Nagi's) portfolio of things we have unofficially done for Train Sim World. Some things are now cancelled, some are still work in progress, but we're proud to how them off nonetheless! If you got any questions, feel free to reach out!  
 ~ Nagi
 ## n-Wagen-related Projects
 ### Images of the first model iteration of a Bnrdzf 480.0 and a Bnrz 436.0

@@ -19,7 +19,7 @@ So far, I have only focused on new rail network assets, mostly new station PIS s
 ### New station PIS screens
 ![](img/Rankbachbahn/2025-01-08.png)
 
-https://github.com/ilosamaRAIL/.github/portfolio/img/Rankbachbahn/2025-01-06%2001-28-47.mp4
+https://github.com/ilosamaRAIL/.github/blob/main/portfolio/img/Rankbachbahn/2025-01-06%2001-28-47.mp4
 
 ### Track assets based on UIC norms and German standards
 These were the few trial assets I made using solely Blender, also for texturing, I have since returned to using Substance Painter.
@@ -31,9 +31,9 @@ These were the few trial assets I made using solely Blender, also for texturing,
 For my work-in-progress ICE 3 mod, I wanted more control and possibilities of the PIS, so I decided to write my own PIS system (which can also support station announcements if supplied with the necessary audio ressources). A simplified EBuLa display has been also based on this PIS system.
 ![](img/Misc/20250726162743_1.jpg)
 
-https://github.com/ilosamaRAIL/.github/portfolio/img/Rankbachbahn/2025-06-02%01-48-21.mp4
+https://github.com/ilosamaRAIL/.github/blob/main/portfolio/img/Misc/2025-06-02%2001-48-21.mp4
 
-https://github.com/ilosamaRAIL/.github/portfolio/img/Rankbachbahn/2025-06-04%18-21-34_comp.mp4
+https://github.com/ilosamaRAIL/.github/blob/main/portfolio/img/Misc/2025-06-04%2018-21-34_comp.mp4
 
 ### Other models
 Before Salzburg - Rosenheim was announced, I was working on a BR 111 on my own, a model which since then hasn't been worked on further, yet I'm still sort of proud of it.

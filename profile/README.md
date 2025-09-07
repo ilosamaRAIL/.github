@@ -1,8 +1,8 @@
 # Welcome to the official ilo sama RAIL GitHub page!
-> We're the ilo sama RAIL (iR) team, a collective of (currently) two TSW modders making various stuff in and around TSW, sometimes fast, sometimes slow, but always to the best of our abilities! :3
+> We're the ilo sama RAIL (iR) team, a collective of (currently) three TSW modders making various stuff in and around TSW, sometimes fast, sometimes slow, but always to the best of our abilities! :3
 
 ## Hiya!
-As the short introduction above suggests, we're the ilo sama RAIL team, and the two of us work on many different types of mods for TSW, be it enhancement packs, repaints, sound mods, routes, locos, or any other things. As we're a rather small team with lives outside of TSW, be it in university or college, we might not always be able to invest our time into our railway-related projects, but we will always try our best to create the most accurate experiences with our mods.
+As the short introduction above suggests, we're the ilo sama RAIL team, and the three of us work on many different types of mods for TSW, be it enhancement packs, repaints, sound mods, routes, locos, or any other things. As we're a rather small team with lives outside of TSW, be it in university or college, we might not always be able to invest our time into our railway-related projects, but we will always try our best to create the most accurate experiences with our mods.
 
 ## The Name
 During the very early days of this group, back when we used to work on a Roblox train simulator, the founders called their then new group "interRail", short "iR". Well, if you've been in the european railway sphere for a bit, you might notice a certain name conflict there. Yeah, the silly people who founded the group didn't check whether the name was already in use and only found out months later, when everything they had worked on already included said name. Very silly.
@@ -20,4 +20,4 @@ Did you find an issue, saw some room for improvement or want to reach out to us 
 **Now, enjoy our content and see you soon!**
 ~ Hannah & Nagi
 
-###### last updated 10/12/2024
+###### last updated 07/09/2025

@@ -18,6 +18,6 @@ Did you find an issue, saw some room for improvement or want to reach out to us 
 **UTC+1/+2 | EN/DE**
 
 **Now, enjoy our content and see you soon!**
-~ Hannah & Nagi
+~ The iR Team
 
 ###### last updated 07/09/2025

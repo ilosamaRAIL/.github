@@ -16,6 +16,14 @@ In early 2024, it was finally decided to rename the group. Though, what would th
 
 Now, we had to refer to the railway for this train simulator gig, so we just slapped a "RAIL" onto it, to conserve the "R" in the "iR" abbreviation. The business handling any commercial work (e.g. the "Einziganders" livery for the Expert BR 101 DLC) is called "ilo sama Softwareentwicklung", if you're curious.
 
+### The iR Team
+- **Hannah**  
+*✨The back-end✨*, but also the developer behind many repaints of ours
+- **Prototype001**  
+Our part-time hostage :3
+- **Nagi**  
+The head of our team, artist & developer of many things, be it front-end or back-end
+
 ## FAQ
 ### Are you supposed to scream the "RAIL" part of the name?
 Unless you don't want to wake up anyone, sure, why not.
@@ -26,7 +34,7 @@ In case you want to join us in our modding adventure, reach out to [Nagi](https:
 (For more specifics on contacting us see below)
 
 ## Contact
-Did you find an issue, see some room for improvement or want to reach out to us for other reasons? You can do so by pinging one of our team on the TSC Discord, by leaving a comment on the respective mod page, by creating an issue on the respective GitHub repositiry (if available), or reaching out via the email on our profile. We tend be quicker on Discord, so we would prefer you to reach out via that. :)
+Did you find an issue, see some room for improvement or want to reach out to us for other reasons? You can do so by pinging one of our team on the TSC Discord, by leaving a comment on the respective mod page, by creating an issue on the respective GitHub repositiry (if available), or reaching out via the [DTG forums](https://forums.dovetailgames.com/members/nagiphaaa.60811/). We tend be quicker on Discord, so we would prefer you to reach out via that. :)
 
 ---
 
